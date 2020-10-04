@@ -1,6 +1,4 @@
-# blog
-
-[Last Byte:](https://nrstarnes.wordpress.com/)
+# blog - [Last Byte](https://nrstarnes.wordpress.com/)
 
 --------------------------------------------------------------------------------------------------------------
 
